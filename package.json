@@ -8,7 +8,6 @@
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
@@ -31,6 +30,7 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
+    "@sanity/cli": "^2.30.0",
     "autoprefixer": "^10.4.7",
     "gatsby-plugin-postcss": "^5.14.0",
     "postcss": "^8.4.13",
